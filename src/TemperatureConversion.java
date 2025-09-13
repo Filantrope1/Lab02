@@ -18,12 +18,9 @@ public class TemperatureConversion {
         System.out.println(celsius + " °C = " + fahrenheit + " °F"); // print la reponse
     }
     public void all(){ //tout print
-    double cel = demanderCelsius(); //call de demandeCelsius
-    double fahr = conversion(cel); //call de conversion
-    reponse(cel, fahr);
+        double cel = demanderCelsius(); //call de demandeCelsius
+        double fahr = conversion(cel); //call de conversion
+        reponse(cel, fahr);
         sc.close();
-}
-
-
-
+    }
 }
