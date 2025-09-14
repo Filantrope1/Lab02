@@ -61,7 +61,4 @@ public class Timer {
 
 }
 
-// 5 / 2 = 2
-// 5 % 2 = 1
-
 
