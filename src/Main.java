@@ -2,10 +2,11 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
 
-         /*          //exercises 1
+/*
+                    //exercises 1
         public static void main(String[] args) {
             TemperatureConversion conv = new TemperatureConversion();
-            conv.all();
+                conv.all();
     }
 
 
@@ -18,19 +19,42 @@ public class Main {
     }
  */
 
-
-
-    /*
-                    //exercises 3
-        public static void main(String[] args) {
-            new VolumeCylindre().all();
-    }
- */
-
-    //exercises 3
+/*
+                //exercises 3
     public static void main(String[] args) {
         new Timer().all();
+    }
+    */
+
+/*
+        //exercises 4
+    public static void main(String[] args) {
+        new Construction().all();
 
 
     }
+*/
+
+/*
+        //exercises 5
+    public static void main(String[] args) {
+       new Impairs().all();
+
+
+    }
+*/
+
+
+/*
+
+        //exercises 6
+    public static void main(String[] args) {
+      new Diviseurs().all();
+
+
+    }
+
+*/
+
+ */
 }
