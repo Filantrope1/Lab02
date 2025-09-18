@@ -56,5 +56,38 @@ public class Main {
 
 */
 
+/*
+
+        //exercises 7
+    public static void main(String[] args) {
+      new Wallis().all();
+
+
+    }
+
+*/
+
+
+/*
+        //exercises 8
+    public static void main(String[] args) {
+      new Premier().all();
+
+
+    }
+
+*/
+
+
+        //exercises 9
+    public static void main(String[] args) {
+      new Premier2().all();
+
+
+    }
+
+
+
+
 
 }
